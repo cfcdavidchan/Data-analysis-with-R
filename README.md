@@ -1,2 +1,2 @@
 # Data-analysis-with-R
-udacity nanodegreeeeee
+udacity nanodegree
